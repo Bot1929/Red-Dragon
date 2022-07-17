@@ -19,18 +19,18 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.alivemsg = `My name is RED DRAGON🔥
-My Creator is Kumuthu Prabhasha😎` //Costomize Alive Message (type your message in `` )
+global.alivemsg = `My name is RED DRAGON🔥 Nethsara⚉🤍
+My Creator is Adeesha Nethsara⚉🤍` //Costomize Alive Message (type your message in `` )
 
-global.owner = ['+94 78 161 0784'] //Owner number in aive msg
-global.premium = ['+94 78 161 0784'] //Owner Number info
-global.ownernomer = '+94 78 161 0784' //Owner Number <<<
+global.owner = ['+94 71 177 0078'] //Owner number in aive msg
+global.premium = ['+94 71 177 0078'] //Owner Number info
+global.ownernomer = '+94 71 177 0078' //Owner Number <<<
 
 global.ownername = '@|🇳‌.🇪‌.🇹‌.🇭‌.🇺‌☻⚡' //Owner Name
 global.botname = ' Nethsara🤍' //Bot Name
 
-global.button = '🤭Youtube📍' //Costomize A Button Name In Alive Message
-global.btnurl = 'https://youtu.be/E5C-lrl_g9I' //Change Your Button's URL
+global.button = 'owner whatsapp number ' //Costomize A Button Name In Alive Message
+global.btnurl = '+94 78 161 0784' //Change Your Button's URL
 
 global.region = 'India, South India, Kerala' //Country Region
 
